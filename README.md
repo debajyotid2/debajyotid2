@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my profile! I am currently working as a machine learning engineer at Siemens. I love working on interdisciplinary projects, especially using C, C++, Python or Rust!
+Welcome to my profile! 
+
+I am currently working as a machine learning engineer at [Siemens](https://www.siemens.com/us/en/industries/battery-manufacturing.html), where I work on developing machine learning and simulation-based solutions to build digital twins for battery manufacturing. 
+I love working on interdisciplinary projects, especially using C, C++, Python or Rust. I occasionally contribute to open-source projects, for instance, [Home Energy Analysis Tool](https://github.com/codeforboston/home-energy-analysis-tool), but I also work on-and-off on personal projects (mostly recreational), like [One billion row challenge](https://github.com/debajyotid2/one-billion-row-challenge) and [Cryptopals](https://github.com/debajyotid2/cryptopals).
+How to reach me: [LinkedIn](https://www.linkedin.com/in/debajyotid2)
